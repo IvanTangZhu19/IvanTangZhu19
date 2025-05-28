@@ -6,7 +6,7 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 
 ## ⚡ Tech Stack y habilidades
 
-- **Frontend:** React, Vue
+- **Frontend:** HTML, CSS, React, Vue
 - **Backend:** Express
 - **Mobile:** Kotlin, Jetpack Compose
 - **Bases de datos:** PostgreSQL, Firebase
