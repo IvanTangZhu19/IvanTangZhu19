@@ -10,13 +10,14 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 - **Backend:** Express
 - **Mobile:** Kotlin, Jetpack Compose
 - **Bases de datos:** PostgreSQL, Firebase
+- **Programación:** Java, JavaScript, Python, C#
 
 ## 🚀 Proyectos destacados
 
-- [NumerosFlash](#)  
+- [NumerosFlash](https://github.com/IvanTangZhu19/NumerosFlash/)  
   *Una app para practicar y mejorar tus habilidades numéricas de forma interactiva y divertida.*
 
-- [MovieMap](#)  
+- [MovieMap](https://github.com/axensz/MovieMap)  
   *Explora y encuentra películas fácilmente con mapas interactivos y recomendaciones personalizadas.*
 
 ## 🌱 Actualmente
@@ -32,7 +33,7 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 
 ## 📫 Conecta conmigo
 
-- [LinkedIn](#) <!-- Puedes reemplazar # por tu enlace real a LinkedIn -->
+- [LinkedIn](https://www.linkedin.com/in/ivan-tang-zhu-4016b6285/) <!-- Puedes reemplazar # por tu enlace real a LinkedIn -->
 
 ---
 
