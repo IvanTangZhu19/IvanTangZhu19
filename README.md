@@ -19,12 +19,24 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 
 - [MovieMap](https://github.com/axensz/MovieMap)  
   *Explora y encuentra películas fácilmente con mapas interactivos y recomendaciones personalizadas.*
+  
+## 📊 Estadísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IvanTangZhu19&theme=tokyonight&border_radius=5.5)]
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&hide_progress=false&theme=tokyonight&layout=compact)
+<p align="center">
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://streak-stats.demolab.com?user=IvanTangZhu19&theme=tokyonight&border_radius=5.5" alt="GitHub Streak"/>
+  </a>
+</p>
+<p align="center">
+ <a href="https://github.com/IvanTangZhu19">
+    <img src="https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  </a>
+</p>
+<p align="center">
+ <a href="https://github.com/IvanTangZhu19">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&layout=donut&theme=tokyonight" alt="Top Langs"/>
+  </a>
+</p>
 
 ## 🌱 Actualmente
 
