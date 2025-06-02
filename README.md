@@ -24,17 +24,17 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 
 <p align="center">
   <a href="https://github.com/IvanTangZhu19">
-    <img src="https://streak-stats.demolab.com?user=IvanTangZhu19&theme=tokyonight&border_radius=5.5" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=IvanTangZhu19&theme=blue-navy&border_radius=5.5" alt="GitHub Streak"/>
   </a>
 </p>
 <p align="center">
  <a href="https://github.com/IvanTangZhu19">
-    <img src="https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=blue_navy" alt="GitHub stats"/>
   </a>
 </p>
 <p align="center">
  <a href="https://github.com/IvanTangZhu19">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&layout=donut&theme=tokyonight" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&layout=donut&theme=blue_navy" alt="Top Langs"/>
   </a>
 </p>
 
