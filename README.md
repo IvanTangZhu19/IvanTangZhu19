@@ -20,6 +20,12 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 - [MovieMap](https://github.com/axensz/MovieMap)  
   *Explora y encuentra películas fácilmente con mapas interactivos y recomendaciones personalizadas.*
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=IvanTangZhu19&theme=tokyonight&border_radius=5.5)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&hide_progress=false&theme=tokyonight&layout=compact)
+
 ## 🌱 Actualmente
 
 - Aprendiendo y mejorando mis habilidades en tecnologías web y móviles
