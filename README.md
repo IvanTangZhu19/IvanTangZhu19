@@ -24,7 +24,7 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 
 <p align="center">
   <a href="https://github.com/IvanTangZhu19">
-    <img src="https://streak-stats.demolab.com?user=IvanTangZhu19&theme=blue-navy&border_radius=5.5" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=IvanTangZhu19&theme=blue-navy&border_radius=5.5&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
   </a>
 </p>
 <p align="center">
