@@ -29,10 +29,13 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 </p>
 <p align="center">
  <a href="https://github.com/IvanTangZhu19">
-    <img src="https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=blue_navy" alt="GitHub stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanTangZhu19&theme=vision_friendly_dark" alt="GitHub Summary"/>
   </a>
 </p>
 <p align="center">
+ <a href="https://github.com/IvanTangZhu19">
+    <img src="https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=blue_navy" alt="GitHub stats"/>
+  </a>
  <a href="https://github.com/IvanTangZhu19">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&layout=donut&theme=blue_navy" alt="Top Langs"/>
   </a>
