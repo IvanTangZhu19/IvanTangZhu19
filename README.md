@@ -45,7 +45,9 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
   </a>
 </p>
 <p align="center">
- <img align=center src="https://github-profile-trophy.vercel.app/?username=IvanTangZhu19&margin-w=15&theme=dark_lover" alt="Top Langs"/>
+ <a href="https://github.com/IvanTangZhu19">
+  <img align=center src="https://github-profile-trophy.vercel.app/?username=IvanTangZhu19&margin-w=15&theme=dark_lover" alt="Trophies"/>
+ </a>
 </p>
 
 
@@ -69,7 +71,9 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 ---
 
 <p align="center">
-  <i>✨ Siempre en busca de nuevos retos. ¡Gracias por leer hasta aquí!</i><br/>
+ <i>✨ Siempre en busca de nuevos retos. ¡Gracias por leer hasta aquí!</i><br/>
+ <a href="https://github.com/IvanTangZhu19">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=¡Feliz+codeo!+💻;Conectemos+en+LinkedIn+🚀" />
+ </a>
 </p>
 
