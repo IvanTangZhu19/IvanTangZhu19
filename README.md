@@ -15,17 +15,44 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 ## 🛠️ Herramientas
 
 - VS Code, Git & GitHub, Postman, Android Studio, Figma
+<p align="center">
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" title="Android Studio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma"/>
+  </a>
+</p>
+
+
 
 ## 🚀 Proyectos destacados
 
 - [NumerosFlash](https://github.com/IvanTangZhu19/NumerosFlash/)  
-  *Una app para practicar y mejorar tus habilidades numéricas de forma interactiva y divertida.*
+  *Aplicación móvil para practicar y mejorar tus habilidades numéricas de forma interactiva y divertida.*
 
 - [MovieMap](https://github.com/axensz/MovieMap)  
-  *App móvil para descubrir películas y series de forma sencilla con secciones de tendencias, populares y listas personalizadas para guardar lo que quieres ver más adelante.*
+  *Aplicación móvil para descubrir películas y series de forma sencilla con secciones de tendencias, populares y listas personalizadas para guardar lo que quieres ver más adelante.*
   
 - [TaskMaster](https://github.com/IvanTangZhu19/AppGestionTareas)  
-  *App móvil para la gestión de proyectos y tareas*
+  *Aplicación móvil para planificar, organizar y hacer seguimiento de proyectos y tareas de forma eficiente.*
   
 ## 📊 Estadísticas
 
@@ -69,12 +96,11 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 
 - [LinkedIn](https://www.linkedin.com/in/ivan-tang-zhu-4016b6285/)
 
-
 ---
 
 <p align="center">
  <i>✨ Siempre en busca de nuevos retos. ¡Gracias por leer hasta aquí!</i><br/>
- <a href="https://github.com/IvanTangZhu19">
+ <a href="https://www.linkedin.com/in/ivan-tang-zhu-4016b6285/">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=¡Feliz+codeo!+💻;Conectemos+en+LinkedIn+🚀" />
  </a>
 </p>
