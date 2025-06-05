@@ -12,6 +12,10 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 - **Bases de datos:** PostgreSQL, Firebase
 - **Programación:** Java, JavaScript, Python, C#
 
+## 🛠️ Herramientas
+
+- VS Code, Git & GitHub, Postman, Android Studio, Figma
+
 ## 🚀 Proyectos destacados
 
 - [NumerosFlash](https://github.com/IvanTangZhu19/NumerosFlash/)  
@@ -34,12 +38,16 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 </p>
 <p align="center">
  <a href="https://github.com/IvanTangZhu19">
-    <img src="https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=blue_navy" alt="GitHub stats"/>
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=blue_navy" alt="GitHub stats"/>
   </a>
  <a href="https://github.com/IvanTangZhu19">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&layout=donut&theme=blue_navy" alt="Top Langs"/>
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&layout=donut&theme=blue_navy" alt="Top Langs"/>
   </a>
 </p>
+<p align="center">
+ <img align=center src="https://github-profile-trophy.vercel.app/?username=IvanTangZhu19&margin-w=15&theme=dark_lover" alt="Top Langs"/>
+</p>
+
 
 ## 🌱 Actualmente
 
@@ -58,4 +66,10 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+---
+
+<p align="center">
+  <i>✨ Siempre en busca de nuevos retos. ¡Gracias por leer hasta aquí!</i><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=¡Feliz+codeo!+💻;Conectemos+en+LinkedIn+🚀" />
+</p>
+
