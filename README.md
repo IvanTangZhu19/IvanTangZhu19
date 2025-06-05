@@ -22,7 +22,10 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
   *Una app para practicar y mejorar tus habilidades numéricas de forma interactiva y divertida.*
 
 - [MovieMap](https://github.com/axensz/MovieMap)  
-  *Explora y encuentra películas fácilmente con mapas interactivos y recomendaciones personalizadas.*
+  *App móvil para descubrir películas y series de forma sencilla con secciones de tendencias, populares y listas personalizadas para guardar lo que quieres ver más adelante.*
+  
+- [TaskMaster](https://github.com/IvanTangZhu19/AppGestionTareas)  
+  *App móvil para la gestión de proyectos y tareas*
   
 ## 📊 Estadísticas
 
@@ -64,9 +67,8 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web
 
 ## 📫 Conecta conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/ivan-tang-zhu-4016b6285/) <!-- Puedes reemplazar # por tu enlace real a LinkedIn -->
+- [LinkedIn](https://www.linkedin.com/in/ivan-tang-zhu-4016b6285/)
 
----
 
 ---
 
