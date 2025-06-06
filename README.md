@@ -5,12 +5,68 @@
 Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web** y móvil. Me encanta aprender y crear soluciones innovadoras que hagan la vida más fácil (¡y divertida!).
 
 ## ⚡ Tech Stack y habilidades
-
+- **Lenguajes de Programación:** Java, JavaScript, Python, C#, Kotlin
+  <p align="center"> 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/> 
+    </a>
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin"/> 
+    </a>
+  </p>
 - **Frontend:** HTML, CSS, React, Vue
-- **Backend:** Express
+  <p align="center"> 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" title="Vue"/> 
+    </a> 
+  </p>
+- **Backend:** Express, Flask
+  <p align="center"> 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" title="Express" style="background-color: white; border-radius: 6px; padding: 4px"/> 
+    </a> 
+    <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" title="Flask"/>
+    </a>
+  </p>
 - **Mobile:** Kotlin, Jetpack Compose
-- **Bases de datos:** PostgreSQL, Firebase
-- **Programación:** Java, JavaScript, Python, C#
+  <p align="center"> 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="Jetpack Compose" width="40" height="40" title="Jetpack Compose"/> 
+    </a> 
+  </p>
+- **Bases de datos:** PostgreSQL, Firebase, MongoDB
+  <p align="center"> 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase"/> 
+    </a> &nbsp;&nbsp; <a href="https://github.com/IvanTangZhu19"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/> 
+    </a> 
+  </p>
 
 ## 🛠️ Herramientas
 
