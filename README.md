@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mí
 ¡Bienvenido a mi perfil de GitHub!  
-Soy estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo web** y móvil. Me encanta aprender y crear soluciones innovadoras que hagan la vida más fácil (¡y divertida!).
+Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Pontificia Bolivariana (UPB) apasionado por el **desarrollo web** y móvil. Me encanta aprender y crear soluciones innovadoras que hagan la vida más fácil (¡y divertida!).
 
 ## ⚡ Tech Stack y habilidades
 - **Lenguajes de Programación:** Java, JavaScript, Python, C#, Kotlin
