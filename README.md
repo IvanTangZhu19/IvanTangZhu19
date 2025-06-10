@@ -23,13 +23,16 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin"/> 
     </a>
   </p>
-- **Frontend:** HTML, CSS, React, Vue
+- **Frontend:** HTML, CSS, SCSS React, Vue
   <p align="center"> 
     <a href="https://github.com/IvanTangZhu19"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML"/> 
     </a> &nbsp;&nbsp; 
     <a href="https://github.com/IvanTangZhu19"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS"/> 
+    </a> &nbsp;&nbsp; 
+    <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40" title="SCSS / Sass"/>
     </a> &nbsp;&nbsp; 
     <a href="https://github.com/IvanTangZhu19"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/> 
