@@ -42,7 +42,7 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
     </a> 
   </p>
 - **Backend:** Express, Flask
-  <p align="center"> 
+  <p align="center">
     <a href="https://github.com/IvanTangZhu19"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" title="Express" style="background-color: white; border-radius: 6px; padding: 4px"/> 
     </a> 
@@ -76,7 +76,7 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
 
 ## 🛠️ Herramientas
 
-- VS Code, Git & GitHub, Postman, Android Studio, Figma
+- VS Code, Git & GitHub, Postman, Android Studio, Figma, Node.js, npm, Capacitor
 <p align="center">
   <a href="https://github.com/IvanTangZhu19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
@@ -100,7 +100,16 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
   &nbsp;&nbsp;
   <a href="https://github.com/IvanTangZhu19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma"/>
-  </a>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" title="NPM"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" alt="Capacitor" width="40" height="40" title="Capacitor"/>
+  </a>&nbsp;&nbsp;
 </p>
 
 
