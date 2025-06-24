@@ -147,7 +147,7 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
 </p>
 <p align="center">
  <a href="https://github.com/IvanTangZhu19">
-  <img align=center src="https://github-profile-trophy.vercel.app/?username=IvanTangZhu19&margin-w=15&theme=dark_lover&title=-Followers" alt="Trophies"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=IvanTangZhu19&margin-w=15&theme=dark_lover&title=-Followers" alt="Trophies"/>
  </a>
 </p>
 
