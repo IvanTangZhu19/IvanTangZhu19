@@ -73,10 +73,22 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/> 
     </a> 
   </p>
+- **Otros:** Node.js, npm, Capacitor
+  <p align="center">
+     <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" title="NPM"/>
+    </a> &nbsp;&nbsp;
+    <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" alt="Capacitor" width="40" height="40" title="Capacitor"/>
+    </a>&nbsp;&nbsp;
+  </p>
 
 ## 🛠️ Herramientas
 
-- VS Code, Git & GitHub, Postman, Android Studio, Figma, Node.js, npm, Capacitor
+- VS Code, Git & GitHub, Postman, Android Studio, Figma
 <p align="center">
   <a href="https://github.com/IvanTangZhu19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
@@ -100,15 +112,6 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
   &nbsp;&nbsp;
   <a href="https://github.com/IvanTangZhu19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/IvanTangZhu19">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/IvanTangZhu19">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" title="NPM"/>
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/IvanTangZhu19">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" alt="Capacitor" width="40" height="40" title="Capacitor"/>
   </a>&nbsp;&nbsp;
 </p>
 
