@@ -73,7 +73,7 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/> 
     </a> 
   </p>
-- **Otros:** Node.js, npm, Capacitor
+- **Otros:** Node.js, npm, Capacitor, Docker, Linux
   <p align="center">
      <a href="https://github.com/IvanTangZhu19">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
@@ -84,11 +84,17 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
     <a href="https://github.com/IvanTangZhu19">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" alt="Capacitor" width="40" height="40" title="Capacitor"/>
     </a>&nbsp;&nbsp;
+    <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
+    </a>&nbsp;&nbsp;
   </p>
 
 ## 🛠️ Herramientas
 
-- VS Code, Git & GitHub, Postman, Android Studio, Figma
+- VS Code, Git & GitHub, Postman, Android Studio, Figma, DBeaver, AWS, Trello
 <p align="center">
   <a href="https://github.com/IvanTangZhu19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
@@ -112,7 +118,20 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
   &nbsp;&nbsp;
   <a href="https://github.com/IvanTangZhu19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" title="Figma"/>
-  </a>&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40" title="DBeaver"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" title="AWS"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="40" height="40" title="Trello"/>
+  </a>
+  &nbsp;&nbsp;
 </p>
 
 
