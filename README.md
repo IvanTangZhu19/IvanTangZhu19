@@ -44,10 +44,10 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
 - **Backend:** Express, Flask
   <p align="center">
     <a href="https://github.com/IvanTangZhu19"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" title="Express" style="background-color: white; border-radius: 6px; padding: 4px"/> 
+      <img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" alt="Express" width="40" height="40" title="Express"/> 
     </a> 
     <a href="https://github.com/IvanTangZhu19">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" title="Flask"/>
+      <img src="https://api.iconify.design/skill-icons:flask-dark.svg" alt="Flask" width="40" height="40" title="Flask"/>
     </a>
   </p>
 - **Mobile:** Kotlin, Jetpack Compose, Flutter
@@ -90,11 +90,14 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
     <a href="https://github.com/IvanTangZhu19">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
     </a>&nbsp;&nbsp;
+    <a href="https://github.com/IvanTangZhu19">
+      <img src="https://api.iconify.design/skill-icons:mint-dark.svg" alt="Linux Mint" width="40" height="40" title="Linux Mint"/>
+    </a>&nbsp;&nbsp;
   </p>
 
 ## 🛠️ Herramientas
 
-- VS Code, Git & GitHub, Postman, Android Studio, Figma, DBeaver, AWS, Trello
+- VS Code, Git & GitHub, Postman, Android Studio, Figma, DBeaver, AWS, Trello, VirtualBox
 <p align="center">
   <a href="https://github.com/IvanTangZhu19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
@@ -105,7 +108,7 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/IvanTangZhu19">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
+    <img src="https://api.iconify.design/skill-icons:github-dark.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/IvanTangZhu19">
@@ -130,6 +133,10 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
   &nbsp;&nbsp;
   <a href="https://github.com/IvanTangZhu19">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="40" height="40" title="Trello"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/IvanTangZhu19">
+    <img src="https://cdn.simpleicons.org/virtualbox" alt="VirtualBox" width="40" height="40" title="VirtualBox"/>
   </a>
   &nbsp;&nbsp;
 </p>
