@@ -41,13 +41,16 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40" title="Vue"/> 
     </a> 
   </p>
-- **Backend:** Express, Flask
+- **Backend:** Express, Flask, FastAPI
   <p align="center">
     <a href="https://github.com/IvanTangZhu19"> 
       <img src="https://api.iconify.design/skill-icons:expressjs-dark.svg" alt="Express" width="40" height="40" title="Express"/> 
     </a> 
     <a href="https://github.com/IvanTangZhu19">
       <img src="https://api.iconify.design/skill-icons:flask-dark.svg" alt="Flask" width="40" height="40" title="Flask"/>
+    </a>
+    <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" title="FastAPI"/>
     </a>
   </p>
 - **Mobile:** Kotlin, Jetpack Compose, Flutter
