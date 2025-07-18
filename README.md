@@ -76,7 +76,7 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/> 
     </a> 
   </p>
-- **Otros:** Node.js, npm, Capacitor, Docker, Linux
+- **Otros:** Node.js, npm, Capacitor, Docker, Linux, Scikit-Learn
   <p align="center">
      <a href="https://github.com/IvanTangZhu19">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/>
@@ -95,6 +95,9 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
     </a>&nbsp;&nbsp;
     <a href="https://github.com/IvanTangZhu19">
       <img src="https://api.iconify.design/skill-icons:mint-dark.svg" alt="Linux Mint" width="40" height="40" title="Linux Mint"/>
+    </a>&nbsp;&nbsp;
+     <a href="https://github.com/IvanTangZhu19">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="40" height="40" title="Scikitlearn"/>
     </a>&nbsp;&nbsp;
   </p>
 
