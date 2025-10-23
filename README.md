@@ -177,7 +177,7 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
     <img align=center src="https://github-readme-stats.vercel.app/api?username=ivantangzhu19&show_icons=true&theme=blue_navy" alt="GitHub stats"/>
   </a>
  <a href="https://github.com/IvanTangZhu19">
-    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&layout=donut&theme=blue_navy" alt="Top Langs"/>
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivantangzhu19&layout=donut&theme=blue_navy&exclude_repo=Prediccion_Diabetes" alt="Top Langs"/>
   </a>
 </p>
 <p align="center">
