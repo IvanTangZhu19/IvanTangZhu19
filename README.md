@@ -160,8 +160,8 @@ Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad P
 - [TaskMaster](https://github.com/IvanTangZhu19/AppGestionTareas)  
   *Aplicación móvil para planificar, organizar y hacer seguimiento de proyectos y tareas de forma eficiente.*
 
-  - [AstronomIA](https://github.com/IvanTangZhu19/AstronomIA)  
-  *Proyecto de Minería de datos para la clasificación de estrellas, galaxias y quasares. Contiene la Preparación de datos, modelos, optimización de hiperparametros y visualización*
+- [AstronomIA](https://github.com/IvanTangZhu19/AstronomIA)  
+  *Proyecto de Minería de datos para la clasificación de estrellas, galaxias y quásares a partir de mediciones fotométricas. Contiene la Preparación de datos, modelos de Machine Learning, optimización de hiperparámetros y visualización*
   
 ## 📊 Estadísticas
 
